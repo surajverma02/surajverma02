@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**surajverma02/surajverma02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Suraj Verma
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing Graduation in the field of Electronics from Atma Ram Sanatan Dharma College
+- 🌱 I’m currently learning Backend Devlopment
+- 💬 Ask me about Me
+- 📫 How to reach me: Dm me on my linkedIn (Link Below)
+
+## Contact Me
+
+- Email: surajverma8730448@gmail.com
+- LinkedIn: https://www.linkedin.com/in/suraj-verma-a4a8b8221/
+
