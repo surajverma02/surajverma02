@@ -1,6 +1,6 @@
-### Hi there 👋
-
-# Suraj Verma
+<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h3 align="center">A passionate Backend developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
 ## About Me
 
@@ -8,15 +8,6 @@
 - 🌱 I’m currently learning Backend Devlopment
 - 💬 Ask me about Me
 - 📫 How to reach me: Dm me on my linkedIn (Link Below)
-
-## Contact Me
-
-- Email: surajverma8730448@gmail.com
-- LinkedIn: https://www.linkedin.com/in/suraj-verma-a4a8b8221/
-
-<h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate Backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma02&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma02" /> </p>
 
@@ -35,4 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajverma02&show_icons=true&locale=en" alt="surajverma02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajverma02&" alt="surajverma02" /></p>
+
+## Contact Me
+
+- Email: surajverma8730448@gmail.com
+- LinkedIn: https://www.linkedin.com/in/suraj-verma-a4a8b8221/
 
