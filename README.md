@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on spring boot projects.
 - 🤝 I’m looking for help with java stack : surajverma8730448@gmail.com
 - 🌱 I’m currently learning Spring Boot and React.
-- ⚡ Know me : https://surajverma02.github.io/surajverma/
+- ⚡ Know me : https://surajverma.netlify.app
 - 📫 How to reach me: Dm me on my linkedIn (Link Below)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma02&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma02" /> </p>
