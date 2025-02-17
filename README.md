@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate Backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="cover_page.png">
+<img align="" alt="Coding" width="" src="cover_page.png">
 
 # 💫 About Me:
 - 🔭 I’m recently completed graduation from Atma Ram Sanatan Dharma College in the field of Electronics.
